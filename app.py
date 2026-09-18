@@ -1,4 +1,5 @@
 import streamlit as st
+import database
 import parties
 import products
 import transactions
